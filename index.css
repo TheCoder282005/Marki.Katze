@@ -1,0 +1,165 @@
+body {
+    background-color: rgb(233, 181, 71);
+    margin: 0;
+}
+
+.Style1 {
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    color: rgb(230, 255, 5, 1);
+    text-shadow: 5px 3px 5px rgb(230, 255, 5);
+    -webkit-box-shadow: 0px 10px 15px 3px rgba(230, 255, 5, 1);
+    -moz-box-shadow: 0px 10px 15px 3px rgba(230, 255, 5, 1);
+    box-shadow: 0px 10px 15px 3px rgba(230, 255, 5, 1);
+}
+
+.Style2 {
+    background-color: rgba(230, 255, 5, 1);
+    width: 98%;
+    margin: 3em 1em 1em 1em;
+    height: 30%;
+    border-top-left-radius: 1px;
+    border-top-right-radius: 1px;
+    border-bottom-right-radius: 1px;
+    border-bottom-left-radius: 1px;
+    border-color: rgba(230, 255, 5, 1);
+    border-style: none;
+    -webkit-box-shadow: 11px 12px 11px -3px rgba(0, 0, 0, 1);
+    -moz-box-shadow: 11px 12px 11px -3px rgba(0, 0, 0, 1);
+    box-shadow: 11px 12px 11px -3px rgba(0, 0, 0, 1);
+}
+
+.Style3 {
+    background-color: rgba(230, 255, 5, 1);
+    border: none;
+    position: absolute;
+    left: 1%;
+    top: 16%;
+}
+
+.Style4 {
+    background-color: rgba(230, 255, 5, 1);
+    border: none;
+    position: absolute;
+    left: 45%;
+    top: 16%;
+}
+
+.Style5 {
+    background-color: rgba(230, 255, 5, 1);
+    text-decoration: underline;
+    text-align: center;
+}
+
+.Style6 {
+    background-color: rgba(230, 255, 5, 1);
+    position: absolute;
+    left: -150%;
+    top: 110%;
+    width: 680px;
+}
+
+.Style7 {
+    background-color: black;
+    position: absolute;
+    left: 30%;
+    top: 2%;
+}
+
+.Style8 {
+    background-color: black;
+    position: absolute;
+    left: 20%;
+    top: 2%;
+}
+
+.Style9 {
+    background-color: black;
+    position: absolute;
+    left: 10%;
+    top: 2%;
+}
+
+.Style10 {
+    background-color: black;
+    position: absolute;
+    left: 65%;
+    top: 2%;
+}
+
+.Style11 {
+    background-color: black;
+    position: absolute;
+    left: 75%;
+    top: 2%;
+}
+
+.Style12 {
+    background-color: black;
+    position: absolute;
+    left: 85%;
+    top: 2%;
+}
+
+.Style13 {
+    background-color: black;
+    border: none;
+    position: absolute;
+    left: 95%;
+    top: 1.5%;
+}
+
+.Style14 {
+    background-color: black;
+    border: none;
+    position: absolute;
+    left: 45%;
+    top: 97%;
+}
+
+.Style15 {
+    background-color: black;
+    border: none;
+    position: absolute;
+    left: 55%;
+    top: 97%;
+}
+
+.Style16 {
+    background-color: rgba(230, 255, 5, 1);
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    border: none;
+    width: 6.5%;
+    height: 9.6%;
+}
+
+.Style16:hover {
+    background-color: black;
+    color: rgba(230, 255, 5, 1);
+    cursor: pointer;
+}
+
+.Style17 {
+    background-color: black;
+    position: absolute;
+    top: 96%;
+    width: 100%;
+    height: 4%;
+}
+
+.Style18 {
+    background-color: black;
+    border: none;
+    position: absolute;
+    left: 0%;
+    top: 97%;
+}
+
+.Style19 {
+    position: absolute;
+    top: 80%;
+    left: 0.3%;
+}
